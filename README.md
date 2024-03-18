@@ -15,3 +15,6 @@ python create_spectrogram.py
 ```
 
 4 - See output in `spectrogram.png` in the repo
+
+## Architecture
+![CatTranslatorArchitecture](https://github.com/BowserTheTalkingCat/CatApp/assets/147279972/d5d2300c-245a-4326-8395-ca9c5f9a1fe6)
